@@ -1,5 +1,17 @@
 # @astrojs/mdx
 
+## 0.15.0-beta.2
+
+### Minor Changes
+
+- [#5782](https://github.com/withastro/astro/pull/5782) [`1f92d64ea`](https://github.com/withastro/astro/commit/1f92d64ea35c03fec43aff64eaf704dc5a9eb30a) Thanks [@Princesseuh](https://github.com/Princesseuh)! - Remove support for Node 14. Minimum supported Node version is now >=16.12.0
+
+### Patch Changes
+
+- Updated dependencies [[`1f92d64ea`](https://github.com/withastro/astro/commit/1f92d64ea35c03fec43aff64eaf704dc5a9eb30a), [`16107b6a1`](https://github.com/withastro/astro/commit/16107b6a10514ef1b563e585ec9add4b14f42b94), [`7572f7402`](https://github.com/withastro/astro/commit/7572f7402238da37de748be58d678fedaf863b53)]:
+  - @astrojs/prism@2.0.0-beta.0
+  - @astrojs/markdown-remark@2.0.0-beta.2
+
 ## 0.15.0-beta.1
 
 ### Minor Changes
